@@ -1,0 +1,2 @@
+`/usr/local/bin/wx-config --cxxflags`
+`/usr/local/bin/wx-config --libs`
